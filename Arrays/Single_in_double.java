@@ -1,4 +1,3 @@
-package Arrays;
 
 public class Single_in_double {
     class Solution {
