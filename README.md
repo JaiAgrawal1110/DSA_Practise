@@ -69,3 +69,10 @@ This repository is updated regularly as I solve new problems and learn new techn
 ---
 
 ⭐ If you're also preparing for coding interviews, feel free to explore the solutions and approaches.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
