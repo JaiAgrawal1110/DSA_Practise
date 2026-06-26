@@ -80,10 +80,12 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
