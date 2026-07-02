@@ -151,6 +151,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
@@ -160,4 +161,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
