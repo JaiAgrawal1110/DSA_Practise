@@ -77,6 +77,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0002-add-two-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -150,4 +152,12 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
