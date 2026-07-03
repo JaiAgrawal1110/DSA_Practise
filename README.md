@@ -76,6 +76,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0002-add-two-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -145,4 +148,26 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
+| [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
