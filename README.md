@@ -135,6 +135,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -170,4 +171,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
