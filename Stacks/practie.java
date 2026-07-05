@@ -16,7 +16,6 @@ public class practie {
         int i=0;
          while(st.size()>0){
         System.out.println(st.pop());
-        
        }
        // while(i<=ans.length-1){
          //   ans[i]=st.pop();
