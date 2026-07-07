@@ -132,6 +132,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
@@ -221,4 +222,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0225-implement-stack-using-queues) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
