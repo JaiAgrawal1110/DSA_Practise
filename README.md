@@ -178,6 +178,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -204,6 +205,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +239,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
 ## Queue
 |  |
