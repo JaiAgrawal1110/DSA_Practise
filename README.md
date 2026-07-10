@@ -76,6 +76,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0002-add-two-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
@@ -173,6 +174,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
@@ -229,6 +231,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
 ## Queue
 |  |
