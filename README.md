@@ -185,6 +185,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,6 +197,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
 | ------- |
