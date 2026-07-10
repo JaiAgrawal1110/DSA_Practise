@@ -118,6 +118,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0061-rotate-list) |
@@ -173,6 +174,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
@@ -211,6 +213,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 ## Design
