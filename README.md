@@ -184,6 +184,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0023-merge-k-sorted-lists](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -227,6 +228,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0136-single-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
