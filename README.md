@@ -161,6 +161,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -212,6 +213,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
@@ -291,5 +293,6 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
