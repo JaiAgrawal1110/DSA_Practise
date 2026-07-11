@@ -76,6 +76,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0002-add-two-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
@@ -135,6 +136,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
@@ -145,6 +147,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0142-linked-list-cycle-ii) |
