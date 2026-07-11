@@ -137,6 +137,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
@@ -150,6 +151,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0141-linked-list-cycle) |
@@ -295,4 +297,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
