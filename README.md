@@ -157,7 +157,9 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
+| [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +202,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0136-single-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
@@ -207,6 +210,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
+| [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,6 +236,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
+| [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
