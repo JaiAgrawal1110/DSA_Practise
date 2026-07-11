@@ -144,6 +144,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0142-linked-list-cycle-ii) |
@@ -176,6 +177,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
