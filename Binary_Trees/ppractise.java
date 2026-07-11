@@ -22,8 +22,14 @@ public class ppractise {
         root.right.left=new Node(6);
         root.right.right=new Node(7);
 
-        System.out.println("Inorder Traversal:");
-        inorderTraversal(root);
+        //System.out.println(root.left.val);
+        display(root);
+        
     }
-    
+    public static void display(Node root){
+        if(root==null){return;}
+        System.out.print(root.val+ "  ");
+        display(root.left);
+        display(root.right);
+    }
 }
