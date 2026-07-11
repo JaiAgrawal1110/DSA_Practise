@@ -76,9 +76,11 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0002-add-two-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0202-happy-number) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
@@ -118,6 +120,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0061-rotate-list) |
@@ -126,6 +129,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0141-linked-list-cycle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0876-middle-of-the-linked-list) |
@@ -134,18 +138,26 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
+| [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +174,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,6 +186,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
@@ -184,8 +199,10 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -211,6 +228,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 ## Design
@@ -259,5 +278,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
