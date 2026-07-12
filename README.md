@@ -81,6 +81,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
@@ -114,6 +115,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0024-swap-nodes-in-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -229,6 +231,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
