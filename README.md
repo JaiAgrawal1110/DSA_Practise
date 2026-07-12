@@ -149,6 +149,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0242-valid-anagram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
@@ -167,6 +168,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0242-valid-anagram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -239,6 +241,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -259,6 +262,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
