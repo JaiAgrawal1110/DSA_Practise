@@ -333,4 +333,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
