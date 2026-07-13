@@ -177,6 +177,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -234,6 +235,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
@@ -334,6 +336,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
