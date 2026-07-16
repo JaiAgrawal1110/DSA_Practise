@@ -85,6 +85,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
+| [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
@@ -257,6 +258,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
