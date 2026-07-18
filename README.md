@@ -231,6 +231,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0136-single-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -257,6 +258,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0190-reverse-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
