@@ -85,7 +85,9 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
+| [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +109,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -176,6 +179,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
@@ -229,11 +233,14 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0136-single-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
+| [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
+| [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
@@ -254,9 +261,12 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0190-reverse-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
+| [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
+| [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
@@ -292,6 +302,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0155-min-stack](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0225-implement-stack-using-queues) |
+| [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -318,6 +329,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
+| [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -331,6 +343,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
+| [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -348,4 +361,12 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
