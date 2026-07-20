@@ -109,6 +109,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -179,6 +180,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -239,6 +241,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
+| [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -302,6 +305,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0155-min-stack](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -368,5 +372,6 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
