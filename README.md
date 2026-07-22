@@ -255,6 +255,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -275,6 +276,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Simulation
 |  |
 | ------- |
