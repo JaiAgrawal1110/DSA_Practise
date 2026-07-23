@@ -163,6 +163,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Hash Table
 |  |
 | ------- |
