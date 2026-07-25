@@ -164,6 +164,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
@@ -365,6 +367,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
