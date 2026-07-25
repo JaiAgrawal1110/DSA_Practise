@@ -84,6 +84,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
@@ -126,6 +127,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0206-reverse-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
