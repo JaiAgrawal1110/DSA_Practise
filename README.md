@@ -274,6 +274,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3046-split-the-array) |
+| [3151-special-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
