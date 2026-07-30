@@ -173,6 +173,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3340-check-balanced-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3340-check-balanced-string) |
 ## Hash Table
 |  |
 | ------- |
