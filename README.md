@@ -150,6 +150,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
@@ -164,6 +165,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
+| [0541-reverse-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
