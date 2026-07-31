@@ -192,6 +192,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0160-intersection-of-two-linked-lists](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
@@ -261,6 +262,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0136-single-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
@@ -330,6 +332,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
