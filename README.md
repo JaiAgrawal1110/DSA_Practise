@@ -162,6 +162,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0005-longest-palindromic-substring](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0344-reverse-string) |
