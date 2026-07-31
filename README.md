@@ -152,6 +152,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
@@ -269,6 +270,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
+| [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -334,6 +336,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
