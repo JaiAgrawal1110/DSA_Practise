@@ -89,6 +89,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0628-maximum-product-of-three-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
+| [1017-convert-to-base-2](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1017-convert-to-base-2) |
 | [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
