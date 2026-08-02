@@ -178,6 +178,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1544-make-the-string-great](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1544-make-the-string-great) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2833-furthest-point-from-origin](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3110-score-of-a-string) |
 | [3210-find-the-encrypted-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3340-check-balanced-string) |
@@ -412,6 +413,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2833-furthest-point-from-origin](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3046-split-the-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
