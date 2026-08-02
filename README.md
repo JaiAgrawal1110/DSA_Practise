@@ -276,6 +276,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0628-maximum-product-of-three-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 | [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
