@@ -100,6 +100,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
 |  |
 | ------- |
