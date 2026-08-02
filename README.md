@@ -90,6 +90,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1017-convert-to-base-2](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1017-convert-to-base-2) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -174,6 +175,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1544-make-the-string-great) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
