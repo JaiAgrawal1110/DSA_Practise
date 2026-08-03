@@ -271,6 +271,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0219-contains-duplicate-ii) |
@@ -387,6 +388,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0053-maximum-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0152-maximum-product-subarray) |
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
 ## Matrix
 |  |
