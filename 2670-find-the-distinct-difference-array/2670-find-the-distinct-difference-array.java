@@ -1,0 +1,25 @@
+class Solution {
+    public int[] distinctDifferenceArray(int[] nums) {
+        int [] ans=new int[nums.length];
+        int [] prefix=new int[nums.length];
+        int [] suffix=new int[nums.length];
+
+        HashSet<Integer>set=new HashSet<>();
+        
+
+        for(int i=0;i<nums.length;i++){
+            set.add(nums[i]);
+            prefix[i]=set.size();
+        }
+        set.clear();
+        for(int i=nums.length-1;i>=0;i--){
+            set.add(nums[i]);
+            suffix[i]=set.size();
+        }
+        for(int i=0;i<nums.length;i++){
+            int right=(i==nums.length-1)?0:suffix[i+1];
+            ans[i]=prefix[i]-right;
+        }
+        return ans;
+    }
+}
