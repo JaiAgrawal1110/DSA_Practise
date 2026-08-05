@@ -220,6 +220,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -304,6 +305,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2460-apply-operations-to-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2562-find-the-array-concatenation-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2670-find-the-distinct-difference-array) |
@@ -432,6 +434,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2833-furthest-point-from-origin](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3046-split-the-array) |
