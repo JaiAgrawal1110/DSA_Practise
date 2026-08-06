@@ -316,6 +316,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3046-split-the-array) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3151-special-array-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
