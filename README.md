@@ -97,6 +97,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3270-find-the-key-of-the-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3270-find-the-key-of-the-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
