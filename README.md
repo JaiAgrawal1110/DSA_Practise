@@ -96,6 +96,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1071-greatest-common-divisor-of-strings](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3270-find-the-key-of-the-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3270-find-the-key-of-the-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3536-maximum-product-of-two-digits) |
@@ -356,6 +357,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0412-fizz-buzz](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0412-fizz-buzz) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2562-find-the-array-concatenation-value) |
