@@ -82,6 +82,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0326-power-of-three) |
@@ -354,6 +355,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0412-fizz-buzz) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -472,6 +474,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Function
