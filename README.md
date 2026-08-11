@@ -78,6 +78,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0009-palindrome-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0202-happy-number) |
@@ -432,6 +433,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0152-maximum-product-subarray) |
@@ -514,4 +516,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
