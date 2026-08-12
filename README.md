@@ -329,6 +329,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -448,6 +449,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0392-is-subsequence](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
 | ------- |
