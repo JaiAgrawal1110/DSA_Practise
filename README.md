@@ -230,6 +230,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0383-ransom-note](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
@@ -311,6 +312,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0598-range-addition-ii) |
@@ -518,6 +520,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3354-make-array-elements-equal-to-zero) |
