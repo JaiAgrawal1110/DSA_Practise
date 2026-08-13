@@ -234,6 +234,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1002-find-common-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
@@ -322,6 +323,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0908-smallest-range-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0908-smallest-range-i) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1002-find-common-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -517,6 +519,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Memoization
 |  |
