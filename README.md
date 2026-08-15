@@ -332,6 +332,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1002-find-common-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1002-find-common-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -459,6 +460,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0392-is-subsequence](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
