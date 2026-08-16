@@ -330,6 +330,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1002-find-common-characters) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -406,6 +407,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
