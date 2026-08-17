@@ -196,6 +196,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0412-fizz-buzz](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0806-number-of-lines-to-write-string) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -322,6 +323,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0806-number-of-lines-to-write-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0806-number-of-lines-to-write-string) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 | [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0908-smallest-range-i) |
