@@ -262,6 +262,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0155-min-stack](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -324,6 +325,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0739-daily-temperatures) |
 | [0806-number-of-lines-to-write-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0806-number-of-lines-to-write-string) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 | [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
@@ -448,6 +450,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Data Stream
