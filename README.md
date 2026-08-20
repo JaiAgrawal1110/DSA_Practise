@@ -365,6 +365,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3046-split-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3151-special-array-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -402,6 +403,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2460-apply-operations-to-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2562-find-the-array-concatenation-value) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
