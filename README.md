@@ -333,6 +333,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0739-daily-temperatures](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0739-daily-temperatures) |
 | [0806-number-of-lines-to-write-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0806-number-of-lines-to-write-string) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
+| [0875-koko-eating-bananas](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0908-smallest-range-i) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
@@ -421,6 +422,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
