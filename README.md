@@ -93,6 +93,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0598-range-addition-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
+| [0728-self-dividing-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0908-smallest-range-i) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1017-convert-to-base-2](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1017-convert-to-base-2) |
