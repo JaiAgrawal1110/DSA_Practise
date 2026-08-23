@@ -269,6 +269,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0155-min-stack](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
@@ -325,6 +326,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
@@ -467,6 +469,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
