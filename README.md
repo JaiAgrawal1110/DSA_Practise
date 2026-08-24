@@ -251,6 +251,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2363-merge-similar-items](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2363-merge-similar-items) |
 | [2670-find-the-distinct-difference-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
@@ -366,6 +367,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2363-merge-similar-items](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2363-merge-similar-items) |
 | [2460-apply-operations-to-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2562-find-the-array-concatenation-value) |
@@ -455,6 +457,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2363-merge-similar-items](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3536-maximum-product-of-two-digits) |
@@ -582,4 +585,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0056-merge-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
