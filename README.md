@@ -306,6 +306,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0048-rotate-image](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0074-search-a-2d-matrix) |
@@ -439,6 +440,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0242-valid-anagram) |
@@ -576,4 +578,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
