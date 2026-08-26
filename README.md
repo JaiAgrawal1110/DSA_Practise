@@ -183,6 +183,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0977-squares-of-a-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2562-find-the-array-concatenation-value) |
 ## String
 |  |
@@ -253,6 +254,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2363-merge-similar-items) |
+| [2540-minimum-common-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2540-minimum-common-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
@@ -371,6 +373,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2363-merge-similar-items) |
 | [2460-apply-operations-to-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2562-find-the-array-concatenation-value) |
 | [2670-find-the-distinct-difference-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2670-find-the-distinct-difference-array) |
@@ -440,6 +443,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2540-minimum-common-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
