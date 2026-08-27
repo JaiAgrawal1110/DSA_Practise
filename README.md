@@ -106,6 +106,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2485-find-the-pivot-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2652-sum-multiples) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3270-find-the-key-of-the-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3270-find-the-key-of-the-numbers) |
