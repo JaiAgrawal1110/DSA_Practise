@@ -117,6 +117,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3870-count-commas-in-range](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3945-digit-frequency-score) |
@@ -401,6 +402,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3718-smallest-missing-multiple-of-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
