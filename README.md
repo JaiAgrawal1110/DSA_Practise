@@ -531,6 +531,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
@@ -573,6 +574,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
 ## Prefix Sum
@@ -619,6 +621,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0144-binary-tree-preorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -631,6 +634,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0144-binary-tree-preorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -643,6 +647,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0144-binary-tree-preorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
