@@ -285,6 +285,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0234-palindrome-linked-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -622,6 +623,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -635,6 +637,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -648,6 +651,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -657,4 +661,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0112-path-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
