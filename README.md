@@ -88,6 +88,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0598-range-addition-ii) |
@@ -452,6 +453,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0268-missing-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
