@@ -95,6 +95,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0628-maximum-product-of-three-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0908-smallest-range-i) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1017-convert-to-base-2](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1017-convert-to-base-2) |
@@ -683,4 +684,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
