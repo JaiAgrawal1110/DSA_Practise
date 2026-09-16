@@ -257,6 +257,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -382,6 +383,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -596,6 +598,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0525-contiguous-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2485-find-the-pivot-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2485-find-the-pivot-integer) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Memoization
