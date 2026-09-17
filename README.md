@@ -166,6 +166,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -318,6 +319,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -550,6 +552,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
