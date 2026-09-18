@@ -171,6 +171,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0141-linked-list-cycle) |
@@ -331,6 +332,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0066-plus-one](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
