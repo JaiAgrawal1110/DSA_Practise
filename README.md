@@ -227,6 +227,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3110-score-of-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3110-score-of-a-string) |
 | [3210-find-the-encrypted-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -453,6 +454,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
