@@ -218,6 +218,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1408-string-matching-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1544-make-the-string-great) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -383,6 +384,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
@@ -553,6 +555,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1408-string-matching-in-an-array) |
 ## Greedy
 |  |
 | ------- |
