@@ -653,6 +653,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -668,6 +669,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -684,6 +686,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
