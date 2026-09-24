@@ -113,6 +113,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3270-find-the-key-of-the-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3270-find-the-key-of-the-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -418,6 +419,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3354-make-array-elements-equal-to-zero](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
