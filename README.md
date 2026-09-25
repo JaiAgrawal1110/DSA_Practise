@@ -654,6 +654,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0144-binary-tree-preorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
@@ -671,6 +672,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
@@ -689,6 +691,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0144-binary-tree-preorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
@@ -713,4 +716,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0836-rectangle-overlap) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
