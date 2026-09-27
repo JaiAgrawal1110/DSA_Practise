@@ -659,6 +659,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0543-diameter-of-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
@@ -677,6 +678,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0543-diameter-of-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
@@ -695,6 +697,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
@@ -708,6 +711,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0226-invert-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0463-island-perimeter) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
