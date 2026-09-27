@@ -341,6 +341,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0084-largest-rectangle-in-histogram](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0137-single-number-ii) |
@@ -534,6 +535,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0053-maximum-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0392-is-subsequence) |
