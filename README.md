@@ -223,6 +223,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1408-string-matching-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2716-minimize-string-length](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2716-minimize-string-length) |
@@ -301,6 +302,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Divide and Conquer
 |  |
@@ -726,4 +728,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
