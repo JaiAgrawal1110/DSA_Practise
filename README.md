@@ -303,6 +303,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -387,6 +388,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1207-unique-number-of-occurrences) |
@@ -532,6 +534,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0503-next-greater-element-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0901-online-stock-span) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Data Stream
 |  |
@@ -550,6 +553,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0392-is-subsequence](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
@@ -579,6 +583,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0561-array-partition](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0561-array-partition) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
@@ -740,4 +745,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
