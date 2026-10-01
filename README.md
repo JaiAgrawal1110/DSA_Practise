@@ -230,6 +230,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2716-minimize-string-length](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-find-the-encrypted-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3498-reverse-degree-of-a-string) |
@@ -279,6 +280,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3046-split-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
