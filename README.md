@@ -510,6 +510,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1200-minimum-absolute-difference) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -680,6 +681,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -699,6 +701,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -718,6 +721,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0872-leaf-similar-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -735,6 +739,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0897-increasing-order-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Geometry
 |  |
 | ------- |
