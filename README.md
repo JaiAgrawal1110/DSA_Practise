@@ -319,6 +319,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0169-majority-element](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -382,6 +383,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0875-koko-eating-bananas](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0908-smallest-range-i) |
+| [0918-maximum-sum-circular-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -558,6 +560,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0392-is-subsequence](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0650-2-keys-keyboard) |
+| [0918-maximum-sum-circular-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -574,6 +577,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0225-implement-stack-using-queues) |
+| [0918-maximum-sum-circular-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
@@ -764,4 +768,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0022-generate-parentheses) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
