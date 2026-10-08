@@ -779,4 +779,8 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0918-maximum-sum-circular-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
