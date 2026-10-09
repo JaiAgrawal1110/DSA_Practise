@@ -226,6 +226,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1408-string-matching-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -311,6 +312,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -598,6 +600,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
@@ -766,6 +769,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0022-generate-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Cartesian Tree
 |  |
