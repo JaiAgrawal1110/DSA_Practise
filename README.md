@@ -442,6 +442,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3483-unique-3-digit-even-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3875-construct-uniform-parity-array-i) |
@@ -467,6 +468,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1486-xor-operation-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -571,6 +573,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 ## Matrix
 |  |
 | ------- |
