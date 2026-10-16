@@ -280,6 +280,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2363-merge-similar-items](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2363-merge-similar-items) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
@@ -428,6 +429,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2540-minimum-common-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2562-find-the-array-concatenation-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2670-find-the-distinct-difference-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
@@ -636,6 +638,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1291-sequential-digits) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
