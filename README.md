@@ -291,6 +291,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3046-split-the-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
@@ -447,6 +448,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3379-transformed-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -538,6 +540,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2974-minimum-number-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
