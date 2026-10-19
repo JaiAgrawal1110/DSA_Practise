@@ -421,6 +421,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -511,6 +512,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0875-koko-eating-bananas](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -534,6 +536,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2363-merge-similar-items](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
