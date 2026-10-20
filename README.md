@@ -117,6 +117,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3663-find-the-least-frequent-digit) |
 | [3870-count-commas-in-range](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3875-construct-uniform-parity-array-i) |
@@ -293,6 +294,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3483-unique-3-digit-even-numbers](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3945-digit-frequency-score) |
@@ -451,6 +453,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3663-find-the-least-frequent-digit) |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
@@ -633,6 +636,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3046-split-the-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3663-find-the-least-frequent-digit) |
 ## Sliding Window
 |  |
 | ------- |
