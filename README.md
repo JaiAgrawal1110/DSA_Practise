@@ -242,6 +242,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3210-find-the-encrypted-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
