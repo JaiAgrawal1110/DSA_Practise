@@ -288,6 +288,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2716-minimize-string-length](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2815-max-pair-sum-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -440,6 +441,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2778-sum-of-squares-of-special-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2815-max-pair-sum-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -811,4 +813,12 @@ This repository is updated regularly as I solve new problems and learn new techn
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1791-find-center-of-star-graph) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
