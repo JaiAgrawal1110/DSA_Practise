@@ -107,6 +107,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2409-count-days-spent-together](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2652-sum-multiples) |
@@ -235,6 +236,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2409-count-days-spent-together](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2409-count-days-spent-together) |
 | [2716-minimize-string-length](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3110-score-of-a-string) |
