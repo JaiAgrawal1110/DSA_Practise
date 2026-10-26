@@ -228,6 +228,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1021-remove-outermost-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1408-string-matching-in-an-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1528-shuffle-string) |
@@ -323,6 +324,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1006-clumsy-factorial](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -797,6 +799,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0022-generate-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Cartesian Tree
