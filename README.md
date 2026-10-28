@@ -467,6 +467,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [3731-find-missing-elements](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3895-count-digit-appearances](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3895-count-digit-appearances) |
 | [3996-even-number-of-knight-moves](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3996-even-number-of-knight-moves) |
 ## Bit Manipulation
@@ -489,6 +490,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -597,6 +599,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3670-maximum-product-of-two-integers-with-no-common-bits](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3670-maximum-product-of-two-integers-with-no-common-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -606,6 +609,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0085-maximal-rectangle](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0463-island-perimeter) |
 | [0861-score-after-flipping-matrix](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0861-score-after-flipping-matrix) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
