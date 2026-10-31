@@ -273,6 +273,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0560-subarray-sum-equals-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0706-design-hashmap) |
+| [0930-binary-subarrays-with-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1002-find-common-characters) |
@@ -405,6 +406,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0905-sort-array-by-parity](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -655,6 +657,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
@@ -683,6 +686,7 @@ This repository is updated regularly as I solve new problems and learn new techn
 | [0238-product-of-array-except-self](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2485-find-the-pivot-integer](https://github.com/JaiAgrawal1110/DSA_Practise/tree/master/2485-find-the-pivot-integer) |
